@@ -5,7 +5,7 @@ onready var game_time = get_node("game-time")
 
 # class member variables go here, for example:
 # var a = 2
-# var b = "textvar"
+# var b = "textvar"s
 #var bankBalance = 100
 var bankBalance = global.money
 var firstCard
